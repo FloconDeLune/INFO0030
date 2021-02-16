@@ -26,7 +26,6 @@ struct PNM_t {
 
 };
 
-
 int load_pnm(PNM **image, char* filename) {
 
    /* Insérez le code ici */
