@@ -4,7 +4,7 @@
  * Ce fichier contient les déclarations de types et les prototypes
  * des fonctions pour la manipulation d'images PNM.
  * 
- * @author: Nom Prenom Matricule
+ * @author: Smeers Timothy S200930
  * @date: 
  * @projet: INFO0030 Projet 1
  */
